@@ -14,7 +14,7 @@ internal sealed class DNCCombo_Moon : DNCCombo_Base<CommandType>
 {
     public override string GameVersion => "6.28";
 
-    public override string Author => "汐ベMoon";
+    public override string Author => "汐ベMoon15s大舞";
 
     internal enum CommandType : byte
     {
